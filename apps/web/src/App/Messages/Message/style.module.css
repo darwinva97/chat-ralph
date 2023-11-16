@@ -1,0 +1,19 @@
+.container {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.right {
+  align-items: flex-end;
+}
+
+.content {
+  background: #f6f6f6;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.date {
+  font-size: 12px;
+}
